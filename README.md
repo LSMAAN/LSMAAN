@@ -7,10 +7,10 @@
     </ul>
   <li>🌱 I’m currently learning</li>
     <ul>
-      <li>TypeScript</li>
+      <li>Artificial intelligence</li>
+      <li>Deep Neural Network (DNN)</li>
       <li>Jenkins</li>
       <li>Kubernetes</li>
-      <li>Terraform</li>
       <li>Docker</li>
     </ul>
 </ul>
